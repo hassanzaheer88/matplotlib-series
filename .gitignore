@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.env
+Thumbs.db
+desktop.ini
+anaconda_projects/
