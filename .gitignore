@@ -1,0 +1,18 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# Anaconda
+anaconda_projects/
