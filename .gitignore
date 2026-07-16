@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
@@ -15,4 +16,12 @@ Thumbs.db
 desktop.ini
 
 # Anaconda
+=======
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.env
+Thumbs.db
+desktop.ini
+>>>>>>> 24a309c6c98fc26148f9463c30ca685485fb5f0c
 anaconda_projects/
